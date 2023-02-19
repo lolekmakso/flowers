@@ -208,6 +208,10 @@ p {
   color: #000000;
 }
 
+.review__img img{
+  width: 100%;
+}
+
 .btn_primary:hover,
 .review__button:hover {
   background: #fff;
@@ -247,7 +251,10 @@ p {
     grid-template-columns: 1fr;
   }
 
-  .shop-section {
-    display: inline-block;
+  .wrapper {
+    padding: 20px;
   }
-}
+
+ 
+  }
+
